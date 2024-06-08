@@ -16,4 +16,10 @@
 
 
 
-## Recent MLLM Tuning Methods
+## MLLM Tuning Methods
+
+1. (2022.8) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2201.11903)
+2. (2024.2) Multimodal Instruction Tuning with Conditional Mixture of LoRA [[Paper]](https://arxiv.org/abs/2402.15896)
+3. (2024.4) Towards Multimodal In-Context Learning for Vision & Language Models [[Paper]](https://arxiv.org/abs/2403.12736)
+4. (2024.4) List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs [[Paper]](https://arxiv.org/abs/2404.16375)
+
