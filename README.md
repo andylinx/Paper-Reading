@@ -6,11 +6,9 @@
 
 Famous or recent Multimodal Large Language Models and related works.      
 
+## [Robotics](https://github.com/andylinx/Paper-Reading/blob/main/MLLM%20%2B%20Robotics.md)
 
-
-## [MLLM + Robotics](https://github.com/andylinx/Paper-Reading/blob/main/MLLM%20%2B%20Robotics.md)
-
-Recent application of MLLM on robotics (especially robotic manipulation).
+Research about foundation models in robotics.
 
 
 
