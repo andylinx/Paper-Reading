@@ -1,5 +1,6 @@
 # Survey
 
+1. (2023.12) Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis [[Paper]](https://arxiv.org/abs/2312.08782)
 1. (2024.4) What Foundation Models can Bring for Robot Learning in Manipulation : A Survey [[Paper]](https://arxiv.org/abs/2404.18201)
 
 
