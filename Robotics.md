@@ -35,3 +35,9 @@
 4. (2024.5) **SAM-E**: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation [[Paper]](https://arxiv.org/abs/2405.19586) [[Project]](https://sam-embodied.github.io/)
 5. (2024.6) **RoboMamba**: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [[Paper]](https://arxiv.org/abs/2406.04339) [[Project]](https://sites.google.com/view/robomamba-web)
 
+
+
+# Reinforcement Learning
+
+1. (2024.6) MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention [[Paper]](https://arxiv.org/abs/2406.16258)
+
