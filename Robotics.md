@@ -34,6 +34,10 @@
 3. (2024.5) **Self-Corrected** Multimodal Large Language Model for End-to-End Robot Manipulation [[Paper]](https://arxiv.org/abs/2405.17418) 
 4. (2024.5) **SAM-E**: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation [[Paper]](https://arxiv.org/abs/2405.19586) [[Project]](https://sam-embodied.github.io/)
 5. (2024.6) **RoboMamba**: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [[Paper]](https://arxiv.org/abs/2406.04339) [[Project]](https://sites.google.com/view/robomamba-web)
+6. (2024.6) **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [[Paper]](https://arxiv.org/pdf/2406.20095) [[Project]](https://github.com/LostXine/LLaRA)
+7. (2024.6) **ManiWAV**: Learning Robot Manipulation from In-the-Wild Audio-Visual Data [[Paper]](https://arxiv.org/abs/2406.19464) [[Project]](https://mani-wav.github.io/)
+
+
 
 
 
