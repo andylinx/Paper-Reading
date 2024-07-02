@@ -8,7 +8,8 @@
 # Simulation Platform
 
 1. (2020.9 & 2022.11) **Robosuite**: A Modular Simulation Framework and Benchmark for Robot Learning [[Paper]](https://arxiv.org/abs/2009.12293) [[Project]](https://robosuite.ai/)
-2. (2024.6) **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots  [[Paper]](https://arxiv.org/abs/2406.02523) [[Project]](https://robocasa.ai/) 
+2. (2024.6) **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots  [[Paper]](https://arxiv.org/abs/2406.02523) [[Project]](https://robo-pack.github.io)
+3. 
 
 
 
@@ -23,7 +24,9 @@
 
 1. (2019.6) **DensePhysNet**: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions [[Paper]](https://arxiv.org/abs/1906.03853) [[Project]](https://www.zhenjiaxu.com/DensePhysNet/)
 2. (2023.9 & 2024.3) **PHYSOBJECTS**: Physically Grounded Vision-Language Models for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2309.02561) [[Project]](https://iliad.stanford.edu/pg-vlm/)
-3. 
+3. (2024.7) **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing [[Paper]](https://arxiv.org/pdf/2407.01418) [[Project]](https://arxiv.org/pdf/2407.01418)
+
+
 
 # MLLM + Robotic Manipulation
 
