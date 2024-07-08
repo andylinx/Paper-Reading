@@ -9,7 +9,7 @@
 7. (2024.6) **OpenDlign: Enhancing Open-World 3D Learning with Depth-Aligned Images** [[Paper]](https://arxiv.org/abs/2404.16538)
 8. (2024.6) From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis [[Paper]](https://arxiv.org/abs/2406.19934) [[Project]](https://github.com/steven-ccq/VisualReasoner)
 9. (2024.6) MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment [[Paper]](https://arxiv.org/abs/2406.19736) [[Project]](https://github.com/jihaonew/MM-Instruct)
-10. 
+10. (2024.7) Robust Multimodal Learning via Representation Decoupling [[Paper]](https://arxiv.org/pdf/2407.04458)
 
 
 

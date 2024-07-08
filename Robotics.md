@@ -23,8 +23,16 @@
 ## Physics + Robotic
 
 1. (2019.6) **DensePhysNet**: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions [[Paper]](https://arxiv.org/abs/1906.03853) [[Project]](https://www.zhenjiaxu.com/DensePhysNet/)
-2. (2023.9 & 2024.3) **PHYSOBJECTS**: Physically Grounded Vision-Language Models for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2309.02561) [[Project]](https://iliad.stanford.edu/pg-vlm/)
-3. (2024.7) **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing [[Paper]](https://arxiv.org/pdf/2407.01418) [[Project]](https://arxiv.org/pdf/2407.01418)
+
+2. (2023.4) **3D-IntPhys**: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes [[Paper]](https://arxiv.org/abs/2312.05359)
+
+3. (2023.9 & 2024.3) **PHYSOBJECTS**: Physically Grounded Vision-Language Models for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2309.02561) [[Project]](https://iliad.stanford.edu/pg-vlm/)
+
+4. (2023.12 & 2024.2) Any-point Trajectory Modeling for Policy Learning [[Paper]](https://arxiv.org/abs/2401.00025) [[Project]](https://xingyu-lin.github.io/atm/)
+
+5. (2024.7) **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing [[Paper]](https://arxiv.org/pdf/2407.01418) [[Project]](https://arxiv.org/pdf/2407.01418)
+
+   
 
 
 
