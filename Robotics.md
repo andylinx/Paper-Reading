@@ -30,7 +30,9 @@
 
 4. (2023.12 & 2024.2) Any-point Trajectory Modeling for Policy Learning [[Paper]](https://arxiv.org/abs/2401.00025) [[Project]](https://xingyu-lin.github.io/atm/)
 
-5. (2024.7) **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing [[Paper]](https://arxiv.org/pdf/2407.01418) [[Project]](https://arxiv.org/pdf/2407.01418)
+5. (2024.7) **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing [[Paper]](https://arxiv.org/pdf/2407.01418) [[Project]](https://robo-pack.github.io/)
+
+6. (2024.7) **TAPVid-3D**: A Benchmark for Tracking Any Point in 3D [[Paper]](https://arxiv.org/abs/2407.05921) [[Project]](https://tapvid3d.github.io/)
 
    
 
@@ -56,3 +58,10 @@
 
 1. (2024.6) MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention [[Paper]](https://arxiv.org/abs/2406.16258)
 
+
+
+
+
+# Diffusion Based Planning
+
+1. (2024.7) Potential Based Diffusion Motion Planning [[Paper]](https://arxiv.org/pdf/2407.06169) [[Project]](https://energy-based-model.github.io/potential-motion-plan/)
