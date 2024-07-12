@@ -8,8 +8,9 @@
 # Simulation Platform
 
 1. (2020.9 & 2022.11) **Robosuite**: A Modular Simulation Framework and Benchmark for Robot Learning [[Paper]](https://arxiv.org/abs/2009.12293) [[Project]](https://robosuite.ai/)
-2. (2024.6) **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots  [[Paper]](https://arxiv.org/abs/2406.02523) [[Project]](https://robo-pack.github.io)
-3. 
+2. (2023.3) **FluidLab**: A Differentiable Environment for Benchmarking Complex Fluid Manipulation [[Paper]](https://arxiv.org/abs/2303.02346) [[Project]](https://github.com/zhouxian/FluidLab)
+3. (2024.6) **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots  [[Paper]](https://arxiv.org/abs/2406.02523) [[Project]](https://robo-pack.github.io)
+4. 
 
 
 
@@ -62,6 +63,28 @@
 
 
 
-# Diffusion Based Planning
+# Energy Based Learning
 
-1. (2024.7) Potential Based Diffusion Motion Planning [[Paper]](https://arxiv.org/pdf/2407.06169) [[Project]](https://energy-based-model.github.io/potential-motion-plan/)
+1. (2021.9) Implicit Behavioral Cloning [[Paper]](https://arxiv.org/pdf/2109.00137)
+
+
+
+# Transformer Based Learning
+
+1. (2022.9 & 2022.11) PERCEIVER-ACTOR: A Multi-Task Transformer for Robotic Manipulation [[Paper]](https://arxiv.org/pdf/2209.05451)
+
+2. (2024.6) RVT-2: Learning Precise Manipulation from Few Demonstrations [[Paper]](https://arxiv.org/abs/2406.08545v1) [[Project]](https://robotic-view-transformer-2.github.io/)
+
+
+
+
+
+# Diffusion Based Learning
+
+1. (2023.1 & 2023.3) Imitating Human Behaviour with Diffusion Models [[Paper\]](https://arxiv.org/abs/2301.10677) [[Project\]](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion)
+2. (2023.12) ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation [[Paper]](https://openreview.net/forum?id=W0zgY2mBTA8) [[Project]](https://chained-diffuser.github.io/)
+3. (2024.2) 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations [[Paper]](https://arxiv.org/abs/2402.10885) [[Project]](https://github.com/nickgkan/3d_diffuser_actor?tab=readme-ov-file)
+4. (2024.3) Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper]](https://arxiv.org/pdf/2303.04137) [[Project]](https://diffusion-policy.cs.columbia.edu/)
+
+5. (2024.7) Potential Based Diffusion Motion Planning [[Paper]](https://arxiv.org/pdf/2407.06169) [[Project]](https://energy-based-model.github.io/potential-motion-plan/)
+6. 

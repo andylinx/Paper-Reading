@@ -11,8 +11,7 @@
 5. (2023.9) **InternLM-XComposer**: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [[Paper]](https://arxiv.org/abs/2309.15112) [[Project]](https://github.com/InternLM/InternLM-XComposer)
 6. (2023.11) **mPLUG-Owl2**: Revolutionizing Multi-modal Large Language Model with Modality Collaboration [[Paper]](https://arxiv.org/abs/2311.04257) [[Project]](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
 7. (2024.3) **Cobra**: Extending **Mamba** to Multi-Modal Large Language Model for Efficient Inference [[Paper]](https://arxiv.org/pdf/2403.14520) [[Project]](https://sites.google.com/view/cobravlm)
-
-
+8. (2024.7) **LLaVA-NeXT-Interleave**: Tackling Multi-image, Video, and 3D in Large Multimodal Models [[Paper]](https://arxiv.org/abs/2407.07895) [[Project]](https://llava-vl.github.io/blog/2024-06-16-llava-next-interleave/)
 
 
 
