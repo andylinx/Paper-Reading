@@ -16,8 +16,8 @@
 
 # Large Models
 
-1. (2023.10 & 2024.6) **RT-X Model**: Robotic Learning Datasets and RT-X Models [[Paper]](https://arxiv.org/abs/2310.08864)
-2. 
+1. (2023.10 & 2024.6) **RT-X Model**: Robotic Learning Datasets and RT-X Models [[Paper] ](https://arxiv.org/abs/2310.08864) [[Project]](https://robotics-transformer-x.github.io/)
+2. (2024.5) **Octo**: An Open-Source Generalist Robot Policy [[Paper]](https://arxiv.org/abs/2405.12213) [[Project]](https://octo-models.github.io/)
 
 
 
@@ -29,9 +29,7 @@
 
 3. (2023.9 & 2024.3) **PHYSOBJECTS**: Physically Grounded Vision-Language Models for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2309.02561) [[Project]](https://iliad.stanford.edu/pg-vlm/)
 
-4. (2023.12 & 2024.2) Any-point Trajectory Modeling for Policy Learning [[Paper]](https://arxiv.org/abs/2401.00025) [[Project]](https://xingyu-lin.github.io/atm/)
-
-5. (2024.7) **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing [[Paper]](https://arxiv.org/pdf/2407.01418) [[Project]](https://robo-pack.github.io/)
+4. (2024.7) **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing [[Paper]](https://arxiv.org/pdf/2407.01418) [[Project]](https://robo-pack.github.io/)
 
 6. (2024.7) **TAPVid-3D**: A Benchmark for Tracking Any Point in 3D [[Paper]](https://arxiv.org/abs/2407.05921) [[Project]](https://tapvid3d.github.io/)
 
@@ -90,3 +88,10 @@
 7. (2024.7) Potential Based Diffusion Motion Planning [[Paper]](https://arxiv.org/pdf/2407.06169) [[Project]](https://energy-based-model.github.io/potential-motion-plan/)
 8. (2024.7) Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion [[Paper]](https://arxiv.org/pdf/2407.10973) [[Project]](https://cheryyunl.github.io/make-an-agent/)
 9. 
+
+
+
+### Others
+
+1. (2023.12 & 2024.7) Any-point Trajectory Modeling for Policy Learning [[Paper]](https://arxiv.org/abs/2401.00025) [[Project]](https://xingyu-lin.github.io/atm/)
+2. 
