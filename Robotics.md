@@ -88,4 +88,5 @@
 5. (2024.3) Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper]](https://arxiv.org/pdf/2303.04137) [[Project]](https://diffusion-policy.cs.columbia.edu/)
 6. (2024.6) 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[Paper]](https://arxiv.org/abs/2403.03954) [[Project]](https://3d-diffusion-policy.github.io/)
 7. (2024.7) Potential Based Diffusion Motion Planning [[Paper]](https://arxiv.org/pdf/2407.06169) [[Project]](https://energy-based-model.github.io/potential-motion-plan/)
-8. 
+8. (2024.7) Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion [[Paper]](https://arxiv.org/pdf/2407.10973) [[Project]](https://cheryyunl.github.io/make-an-agent/)
+9. 
