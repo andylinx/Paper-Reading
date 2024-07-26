@@ -12,6 +12,7 @@
 10. (2024.6) MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment [[Paper]](https://arxiv.org/abs/2406.19736) [[Project]](https://github.com/jihaonew/MM-Instruct)
 11. (2024.7) Robust Multimodal Learning via Representation Decoupling [[Paper]](https://arxiv.org/pdf/2407.04458)
 12. (2024.7) Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models [[Paper]](https://arxiv.org/abs/2407.12616v1)
+13. (2024.7) Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality [[Paper]](https://arxiv.org/pdf/2407.16171)
 
 
 

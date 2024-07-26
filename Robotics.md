@@ -9,8 +9,8 @@
 
 1. (2020.9 & 2022.11) **Robosuite**: A Modular Simulation Framework and Benchmark for Robot Learning [[Paper]](https://arxiv.org/abs/2009.12293) [[Project]](https://robosuite.ai/)
 2. (2023.3) **FluidLab**: A Differentiable Environment for Benchmarking Complex Fluid Manipulation [[Paper]](https://arxiv.org/abs/2303.02346) [[Project]](https://github.com/zhouxian/FluidLab)
-3. (2024.6) **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots  [[Paper]](https://arxiv.org/abs/2406.02523) [[Project]](https://robo-pack.github.io)
-4. 
+3. (2024.2) **Genie**: Generative Interactive Environments [[Paper]](https://arxiv.org/abs/2402.15391) [[Project]](https://sites.google.com/view/genie-2024/)
+4. (2024.6) **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots  [[Paper]](https://arxiv.org/abs/2406.02523) [[Project]](https://robo-pack.github.io) 
 
 
 
@@ -94,4 +94,4 @@
 ### Others
 
 1. (2023.12 & 2024.7) Any-point Trajectory Modeling for Policy Learning [[Paper]](https://arxiv.org/abs/2401.00025) [[Project]](https://xingyu-lin.github.io/atm/)
-2. 
+
