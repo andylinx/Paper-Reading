@@ -17,6 +17,13 @@
 
 
 
+## 3D MLLMs
+
+1. (2023.8 & 2023.13) **PointLLM**: Empowering Large Language Models to Understand Point Clouds [[Paper]](https://arxiv.org/abs/2308.16911) [[Project]](https://github.com/OpenRobotLab/PointLLM)
+2. (2023.11 & 2024.5) An Embodied Generalist Agent in 3D World [[Paper]](https://arxiv.org/abs/2311.12871) [[Project]](https://embodied-generalist.github.io/)
+3. (2023.12) **GPT4Point**: A Unified Framework for Point-Language Understanding and Generation [[Paper]](https://arxiv.org/abs/2312.02980) [[Project]](https://gpt4point.github.io)
+4. 
+
 
 
 ## MLLM Tuning Methods
