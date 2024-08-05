@@ -45,6 +45,7 @@
 8. (2024.6) **LLaRA**: Supercharging Robot Learning Data for Vision-Language Policy [[Paper]](https://arxiv.org/pdf/2406.20095) [[Project]](https://github.com/LostXine/LLaRA)
 9. (2024.6) **ManiWAV**: Learning Robot Manipulation from In-the-Wild Audio-Visual Data [[Paper]](https://arxiv.org/abs/2406.19464) [[Project]](https://mani-wav.github.io/)
 10. (2024.6) **OpenVLA**: An Open-Source Vision-Language-Action Model [[Paper]](https://arxiv.org/abs/2406.09246) [[Project]](https://openvla.github.io/)
+11. (2024.8) **Actra**: Optimized Transformer Architecture for Vision-Language-Action Models in Robot Learning [[Paper]](https://arxiv.org/pdf/2408.01147)
 
 
 
