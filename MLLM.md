@@ -14,6 +14,7 @@
 8. (2024.3) **Cobra**: Extending **Mamba** to Multi-Modal Large Language Model for Efficient Inference [[Paper]](https://arxiv.org/pdf/2403.14520) [[Project]](https://sites.google.com/view/cobravlm)
 9. (2024.7) **LLaVA-NeXT-Interleave**: Tackling Multi-image, Video, and 3D in Large Multimodal Models [[Paper]](https://arxiv.org/abs/2407.07895) [[Project]
 10. (2024.7) **QWEN2** TECHNICAL REPORT [[Paper]](https://arxiv.org/pdf/2407.10671) [[Blog]](https://qwenlm.github.io/zh/blog/qwen2/)
+11. (2024.8) **mPLUG-Owl3**: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models [[Paper]](https://arxiv.org/abs/2408.04840) [[Project]](https://github.com/X-PLUG/mPLUG-Owl)
 
 
 
@@ -42,4 +43,8 @@
 1. (2024.6) Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning [[Paper]](https://arxiv.org/abs/2406.15334) 
 
 
+
+### Omni Models
+
+1. (2024.8) **VITA**: Towards Open-Source Interactive Omni Multimodal LLM [[Paper]](https://arxiv.org/pdf/2408.05211) [[Project]](https://vita-home.github.io/)
 
