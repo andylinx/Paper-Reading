@@ -35,12 +35,16 @@
 4. (2024.4) List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs [[Paper]](https://arxiv.org/abs/2404.16375)
 5. (2024.6) MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment [[Paper]](https://arxiv.org/abs/2406.19736) [[Project]](https://github.com/jihaonew/MM-Instruct)
 6. (2024.7) Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge [[Paper]](https://arxiv.org/pdf/2407.04681)
+7. (2024.8) SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs [[Paper]](https://arxiv.org/pdf/2408.11813)
+
+
 
 
 
 ### In-Context Learning
 
 1. (2024.6) Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning [[Paper]](https://arxiv.org/abs/2406.15334) 
+1. (2024.8) Making Large Vision Language Models to be Good Few-shot Learners [[Paper]](https://arxiv.org/pdf/2408.11297)
 
 
 

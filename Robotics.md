@@ -2,6 +2,9 @@
 
 1. (2023.12) Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis [[Paper]](https://arxiv.org/abs/2312.08782)
 1. (2024.4) What Foundation Models can Bring for Robot Learning in Manipulation : A Survey [[Paper]](https://arxiv.org/abs/2404.18201)
+1. (2024.8) Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations [[Paper]](https://arxiv.org/pdf/2408.04380v3)
+1. (2024.8) A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[Paper]](https://arxiv.org/pdf/2408.11537)
+1. 
 
 
 
