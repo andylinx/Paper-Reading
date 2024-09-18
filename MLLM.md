@@ -16,6 +16,7 @@
 10. (2024.7) **QWEN2** TECHNICAL REPORT [[Paper]](https://arxiv.org/pdf/2407.10671) [[Blog]](https://qwenlm.github.io/zh/blog/qwen2/)
 11. (2024.8) **mPLUG-Owl3**: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models [[Paper]](https://arxiv.org/abs/2408.04840) [[Project]](https://github.com/X-PLUG/mPLUG-Owl)
 12. (2024.8) **CogVLM2**: Visual Language Models for Image and Video Understanding [[Paper]](https://arxiv.org/pdf/2408.16500) [[Project]](https://github.com/THUDM/CogVLM2)
+13. (2024.9) **NVLM**: Open Frontier-Class Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2409.11402) [[Project]](https://nvlm-project.github.io/)
 
 
 
