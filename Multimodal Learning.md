@@ -26,4 +26,4 @@
 
 1. (2024.5) Pre-Trained Vision-Language Models as Partial Annotators [[Paper]](https://arxiv.org/pdf/2406.18550)
 2. (2024.6) Pairwise Difference Learning for Classification [[Paper]](https://arxiv.org/abs/2406.20031v1)
-
+3. (2024.9) Finetuning CLIP to Reason about Pairwise Differences [[Paper]](https://arxiv.org/abs/2409.09721)
