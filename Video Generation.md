@@ -8,7 +8,7 @@
 
 ### Famous Text to Video Models
 
-
+1. (2024.8) **CogVideoX**: Text-to-Video Diffusion Models with An Expert Transformer [[Paper]](https://arxiv.org/abs/2408.06072) [[Code]](https://github.com/THUDM/CogVideo)
 
 ### Physics-Informed Video Generation
 
