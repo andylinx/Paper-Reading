@@ -29,3 +29,6 @@ Recent research on visual reasoning, especially in the 3D world.
 Famous and recent paradigm of multimodal learning, especially leveraging unpaired data.
 
 
+
+### [Video Generation](https://github.com/andylinx/Paper-Reading/blob/main/Video%20Generation.md)
+
