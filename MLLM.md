@@ -58,4 +58,5 @@
 ### Omni Models
 
 1. (2024.8) **VITA**: Towards Open-Source Interactive Omni Multimodal LLM [[Paper]](https://arxiv.org/pdf/2408.05211) [[Project]](https://vita-home.github.io/)
+1. (2024.9) **EMOVA**: Empowering Language Models to See, Hear and Speak with Vivid Emotions [[Paper]](https://arxiv.org/pdf/2409.18042) [[Project]](https://emova-ollm.github.io/)
 
