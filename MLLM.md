@@ -1,3 +1,7 @@
+### Survey
+
+1. (2024.9) From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding [[Paper]](https://arxiv.org/pdf/2409.18938)
+
 
 
 ## Famous MLLM Base
