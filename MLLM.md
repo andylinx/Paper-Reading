@@ -22,6 +22,7 @@
 12. (2024.8) **CogVLM2**: Visual Language Models for Image and Video Understanding [[Paper]](https://arxiv.org/pdf/2408.16500) [[Project]](https://github.com/THUDM/CogVLM2)
 13. (2024.9) **NVLM**: Open Frontier-Class Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2409.11402) [[Project]](https://nvlm-project.github.io/)
 14. (2024.9) **Qwen2-VL**: Enhancing Vision-Language Model’s Perception of the World at Any Resolution [[Paper]](https://arxiv.org/pdf/2409.12191) [[Project]](https://github.com/QwenLM/Qwen2-VL)
+15. (2024.10) **Pixtral 12B** [[Paper]](https://arxiv.org/pdf/2410.07073) [[Project]](https://mistral.ai/news/pixtral-12b/)
 
 
 
