@@ -66,6 +66,8 @@
 
 14. (2024.10) **GR-2**: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation [[Paper]](https://arxiv.org/pdf/2410.06158)        
 
+15. (2024.10) Embodied Agent Interface: A Single Line to Evaluate LLMs for Embodied Decision Making [[Paper]](https://arxiv.org/abs/2410.07166) [[Project]](https://embodied-agent-interface.github.io/)
+
     
 
 # Reinforcement Learning
