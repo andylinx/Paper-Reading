@@ -62,9 +62,11 @@
 
 12. (2024.8) In-Context Imitation Learning via Next-Token Prediction [[Paper]](https://arxiv.org/pdf/2408.15980) [[Project]](https://icrt.dev/)
 
+13. (2024.10) **AHA**: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation [[Paper]](https://arxiv.org/abs/2410.00371) [[Project]](https://aha-vlm.github.io/)
+
+14. 
+
     
-
-
 
 # Reinforcement Learning
 
