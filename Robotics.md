@@ -4,7 +4,7 @@
 1. (2024.4) What Foundation Models can Bring for Robot Learning in Manipulation : A Survey [[Paper]](https://arxiv.org/abs/2404.18201)
 1. (2024.8) Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations [[Paper]](https://arxiv.org/pdf/2408.04380v3)
 1. (2024.8) A Survey of Embodied Learning for Object-Centric Robotic Manipulation [[Paper]](https://arxiv.org/pdf/2408.11537)
-1. (2024.8) Embodied-AI with large models: research and challenge [[Paper]](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0076) $\text{[In Chinese]}$
+1. (2024.8) Embodied-AI with large models: research and challenge [[Paper]](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0076) 
 
 
 
@@ -64,7 +64,7 @@
 
 13. (2024.10) **AHA**: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation [[Paper]](https://arxiv.org/abs/2410.00371) [[Project]](https://aha-vlm.github.io/)
 
-14. 
+14. (2024.10) **GR-2**: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation [[Paper]](https://arxiv.org/pdf/2410.06158)        
 
     
 
