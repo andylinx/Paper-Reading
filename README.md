@@ -30,5 +30,6 @@ Famous and recent paradigm of multimodal learning, especially leveraging unpaire
 
 
 
-### [Video Generation](https://github.com/andylinx/Paper-Reading/blob/main/Video%20Generation.md)
+### [Generative Model](https://github.com/andylinx/Paper-Reading/blob/main/Generative%20Model.md)
 
+Recent Text-to-Image, Image-to-Image, Text-to-Video, Image-to-Video models, as well as some benchmarks.

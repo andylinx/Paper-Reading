@@ -1,3 +1,15 @@
+# Image Generation
+
+### Text-to-Image
+
+1. (2024.10) **Fluid**: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [[Paper]](https://arxiv.org/pdf/2410.13863v1)
+
+
+
+
+
+
+
 # Video Generation
 
 
