@@ -14,16 +14,17 @@
 4. (2023.8) **Qwen-VL**: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [[Paper]](https://arxiv.org/abs/2308.12966) [[Project]](https://github.com/QwenLM/Qwen-VL)
 5. (2023.9) **InternLM-XComposer**: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition [[Paper]](https://arxiv.org/abs/2309.15112) [[Project]](https://github.com/InternLM/InternLM-XComposer)
 6. (2023.11) **mPLUG-Owl2**: Revolutionizing Multi-modal Large Language Model with Modality Collaboration [[Paper]](https://arxiv.org/abs/2311.04257) [[Project]](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
-7. (2024.2) **EVA-CLIP-18B**: Scaling CLIP to 18 Billion Parameters [[Paper]](https://arxiv.org/abs/2402.04252) [[Project]](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)
-8. (2024.3) **Cobra**: Extending **Mamba** to Multi-Modal Large Language Model for Efficient Inference [[Paper]](https://arxiv.org/pdf/2403.14520) [[Project]](https://sites.google.com/view/cobravlm)
-9. (2024.7) **LLaVA-NeXT-Interleave**: Tackling Multi-image, Video, and 3D in Large Multimodal Models [[Paper]](https://arxiv.org/abs/2407.07895) [[Project]
-10. (2024.7) **QWEN2** TECHNICAL REPORT [[Paper]](https://arxiv.org/pdf/2407.10671) [[Blog]](https://qwenlm.github.io/zh/blog/qwen2/)
-11. (2024.8) **mPLUG-Owl3**: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models [[Paper]](https://arxiv.org/abs/2408.04840) [[Project]](https://github.com/X-PLUG/mPLUG-Owl)
-12. (2024.8) **CogVLM2**: Visual Language Models for Image and Video Understanding [[Paper]](https://arxiv.org/pdf/2408.16500) [[Project]](https://github.com/THUDM/CogVLM2)
-13. (2024.9) **NVLM**: Open Frontier-Class Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2409.11402) [[Project]](https://nvlm-project.github.io/)
-14. (2024.9) **Qwen2-VL**: Enhancing Vision-Language Model’s Perception of the World at Any Resolution [[Paper]](https://arxiv.org/pdf/2409.12191) [[Project]](https://github.com/QwenLM/Qwen2-VL)
-15. (2024.10) **Pixtral 12B** [[Paper]](https://arxiv.org/pdf/2410.07073) [[Project]](https://mistral.ai/news/pixtral-12b/)
-16. (2024.10) **Baichuan-Omni** Technical Report [[Paper]](https://arxiv.org/pdf/2410.08565)
+7. (2023.11) **Video-LLaVA**: Learning United Visual Representation by Alignment Before Projection [[Paper]](https://arxiv.org/abs/2311.10122) 
+8. (2024.2) **EVA-CLIP-18B**: Scaling CLIP to 18 Billion Parameters [[Paper]](https://arxiv.org/abs/2402.04252) [[Project]](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)
+9. (2024.3) **Cobra**: Extending **Mamba** to Multi-Modal Large Language Model for Efficient Inference [[Paper]](https://arxiv.org/pdf/2403.14520) [[Project]](https://sites.google.com/view/cobravlm)
+10. (2024.7) **LLaVA-NeXT-Interleave**: Tackling Multi-image, Video, and 3D in Large Multimodal Models [[Paper]](https://arxiv.org/abs/2407.07895) [[Project]
+11. (2024.7) **QWEN2** TECHNICAL REPORT [[Paper]](https://arxiv.org/pdf/2407.10671) [[Blog]](https://qwenlm.github.io/zh/blog/qwen2/)
+12. (2024.8) **mPLUG-Owl3**: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models [[Paper]](https://arxiv.org/abs/2408.04840) [[Project]](https://github.com/X-PLUG/mPLUG-Owl)
+13. (2024.8) **CogVLM2**: Visual Language Models for Image and Video Understanding [[Paper]](https://arxiv.org/pdf/2408.16500) [[Project]](https://github.com/THUDM/CogVLM2)
+14. (2024.9) **NVLM**: Open Frontier-Class Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2409.11402) [[Project]](https://nvlm-project.github.io/)
+15. (2024.9) **Qwen2-VL**: Enhancing Vision-Language Model’s Perception of the World at Any Resolution [[Paper]](https://arxiv.org/pdf/2409.12191) [[Project]](https://github.com/QwenLM/Qwen2-VL)
+16. (2024.10) **Pixtral 12B** [[Paper]](https://arxiv.org/pdf/2410.07073) [[Project]](https://mistral.ai/news/pixtral-12b/)
+17. (2024.10) **Baichuan-Omni** Technical Report [[Paper]](https://arxiv.org/pdf/2410.08565)
 
 
 

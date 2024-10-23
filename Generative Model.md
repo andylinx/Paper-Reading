@@ -27,11 +27,24 @@
 ### Famous I&T to Video Models
 
 1. (2024.9) **Emu3**: Next-Token Prediction is All You Need [[Paper]](https://arxiv.org/pdf/2409.18869) [[Project]](https://emu.baai.ac.cn/about)
-2. 
 
 
 
 ### Physics-Informed Video Generation
 
 1. (2024.9) **PhysGen**: Rigid-Body Physics-Grounded Image-to-Video Generation [[Paper]](https://arxiv.org/pdf/2409.18964)
+
+
+
+### Famous Omni Generative Models
+
+1. (2024.10) **Movie Gen**: A Cast of Media Foundation Models [[Paper]](https://ai.meta.com/static-resource/movie-gen-research-paper) [[Project]](https://ai.meta.com/research/movie-gen/)
+
+
+
+
+
+# Benchmarks
+
+1. (2024.10) **Movie Gen**: A Cast of Media Foundation Models [[Paper]](https://ai.meta.com/static-resource/movie-gen-research-paper) [[Project]](https://ai.meta.com/research/movie-gen/)
 
