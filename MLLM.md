@@ -58,6 +58,10 @@
 
 
 
+#### O1-like Reasoning
+
+1. (2024.11) LLaVA-o1: Let Vision Language Models Reason Step-by-Step [[Paper]](https://arxiv.org/pdf/2411.10440)
+
 ### Omni Models
 
 1. (2023.10) **LanguageBind**: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment [[Paper]](https://arxiv.org/abs/2310.01852)

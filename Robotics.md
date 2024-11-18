@@ -15,6 +15,7 @@
 3. (2023.3) **FluidLab**: A Differentiable Environment for Benchmarking Complex Fluid Manipulation [[Paper]](https://arxiv.org/abs/2303.02346) [[Project]](https://github.com/zhouxian/FluidLab)
 4. (2024.2) **Genie**: Generative Interactive Environments [[Paper]](https://arxiv.org/abs/2402.15391) [[Project]](https://sites.google.com/view/genie-2024/)
 5. (2024.6) **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots  [[Paper]](https://arxiv.org/abs/2406.02523) [[Project]](https://robo-pack.github.io) 
+6. (2024.11) **GarmentLab**: A Unified Simulation and Benchmark for Garment Manipulation [[Paper]](https://arxiv.org/pdf/2411.01200) [[Project]](https://garmentlab.github.io/)
 
 
 
