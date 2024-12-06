@@ -43,12 +43,22 @@
 ## MLLM Tuning Methods
 
 1. (2022.8) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[Paper]](https://arxiv.org/abs/2201.11903)
+
 2. (2024.2) Multimodal Instruction Tuning with Conditional Mixture of LoRA [[Paper]](https://arxiv.org/abs/2402.15896)
+
 3. (2024.4) Towards Multimodal In-Context Learning for Vision & Language Models [[Paper]](https://arxiv.org/abs/2403.12736)
+
 4. (2024.4) List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs [[Paper]](https://arxiv.org/abs/2404.16375)
+
 5. (2024.6) MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment [[Paper]](https://arxiv.org/abs/2406.19736) [[Project]](https://github.com/jihaonew/MM-Instruct)
+
 6. (2024.7) Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge [[Paper]](https://arxiv.org/pdf/2407.04681)
+
 7. (2024.8) SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs [[Paper]](https://arxiv.org/pdf/2408.11813)
+
+8. (2024.12) Perception Tokens Enhance Visual Reasoning in Multimodal Language Models [[Paper]](https://arxiv.org/pdf/2412.03548)
+
+   
 
 
 
