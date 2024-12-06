@@ -25,6 +25,7 @@
 15. (2024.9) **Qwen2-VL**: Enhancing Vision-Language Model’s Perception of the World at Any Resolution [[Paper]](https://arxiv.org/pdf/2409.12191) [[Project]](https://github.com/QwenLM/Qwen2-VL)
 16. (2024.10) **Pixtral 12B** [[Paper]](https://arxiv.org/pdf/2410.07073) [[Project]](https://mistral.ai/news/pixtral-12b/)
 17. (2024.10) **Baichuan-Omni** Technical Report [[Paper]](https://arxiv.org/pdf/2410.08565)
+18. (2024.12) **NVILA**: Efficient Frontier Visual Language Models [[Paper]](https://arxiv.org/pdf/2412.04468)
 
 
 
