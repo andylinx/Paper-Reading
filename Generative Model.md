@@ -41,6 +41,7 @@
 
 1. (2024.10) **Movie Gen**: A Cast of Media Foundation Models [[Paper]](https://ai.meta.com/static-resource/movie-gen-research-paper) [[Project]](https://ai.meta.com/research/movie-gen/)
 1. (2024.12) Instructional Video Generation [[Paper]](https://arxiv.org/pdf/2412.04189)
+3. (2024.12) **HunyuanVideo**: A Systematic Framework For Large Video Generative Models [[Paper]](https://arxiv.org/pdf/2412.03603)
 
 
 
