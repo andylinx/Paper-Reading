@@ -3,6 +3,7 @@
 ### Text-to-Image
 
 1. (2024.10) **Fluid**: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [[Paper]](https://arxiv.org/pdf/2410.13863v1)
+2. (2024.12) **Liquid**: Language Models are Scalable Multi-modal Generators [[Paper]](https://arxiv.org/pdf/2412.04332)
 
 
 
@@ -39,6 +40,7 @@
 ### Famous Omni Generative Models
 
 1. (2024.10) **Movie Gen**: A Cast of Media Foundation Models [[Paper]](https://ai.meta.com/static-resource/movie-gen-research-paper) [[Project]](https://ai.meta.com/research/movie-gen/)
+1. (2024.12) Instructional Video Generation [[Paper]](https://arxiv.org/pdf/2412.04189)
 
 
 
