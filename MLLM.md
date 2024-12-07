@@ -60,7 +60,9 @@
 
    
 
+### MoE
 
+1. (2024.8) EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders [[Paper]](https://arxiv.org/pdf/2408.15998)
 
 
 
