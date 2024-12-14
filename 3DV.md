@@ -9,4 +9,8 @@
 ## 4D Reconstruction
 
 1. (2023.9) Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction [[Paper]](https://arxiv.org/abs/2309.13101) [[Project]](https://github.com/ingra14m/Deformable-3DGaussians)
-2. (2024.1) Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting [[Paper]](https://arxiv.org/abs/2401.16416) [[Project]](https://github.com/lastbasket/Endo-4DGS)
+2. (2023.11) 4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling [[Paper]](https://arxiv.org/abs/2311.17984)
+3. (2023.12) Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models [Paper]
+4. (2024.1) Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting [[Paper]](https://arxiv.org/abs/2401.16416) [[Project]](https://github.com/lastbasket/Endo-4DGS)
+5. (2024.3) STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians [[Paper]](https://arxiv.org/abs/2403.14939)
+6. (2024.12) Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos [[Paper]](https://arxiv.org/pdf/2412.09621) 
